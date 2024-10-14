@@ -6,6 +6,7 @@
 [![BLOG](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-jacobs-a620302b3/)
 
 ![R-JAC0BS GitHub stats](https://github-readme-stats.vercel.app/api?username=R-JAC0BS&show_icons=true&theme=dark#gh-dark-mode-only)
+### 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=R-JAC0BS&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Tecnologias 
