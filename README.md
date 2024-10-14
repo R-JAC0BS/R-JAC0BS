@@ -17,7 +17,7 @@
      <img align ="center" alt="html15" src = "
     https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
     </img>
-      <img align ="center" alt="html15" src = "
+      <img  alt="javascript" src = "
     https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
     </img>
      <img align ="center" alt="html15" src = "
@@ -30,7 +30,7 @@
     https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
     </img>
      <img align ="center" alt="html15" src = "
-  https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> 
-    </img>
+  https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+   
     
  </div>
